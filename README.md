@@ -15,5 +15,5 @@ G.上网时长分析视图
 #### 运行方式
  1. 打开[config](config/index.js)修改**接口域名**，改为本地的ipv4地址
  2. 进入[data_chose](data_chose)命令行输入`python app.py`
- 3. 在[根目录](master)命令行输入`npm run dev`
+ 3. 在根目录命令行输入`npm run dev`
  4. 浏览器访问[http://localhost:8080/](http://localhost:8080/)
